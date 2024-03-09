@@ -8,7 +8,7 @@ I'm a passionate FrontEnd Engineer interested in Software development.
 
 I enjoy creating things and have a strong passion for assisting others in grasping complex software concepts and expanding their knowledge.
 
-🔭 I’m currently working on Nielsen as a Frontend Team Lead & Guild Master
+🔭 I’m currently working on Nielsen as a Frontend Team Lead & Guild Manager
 
 📫 Connect with me on:
 
