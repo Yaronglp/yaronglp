@@ -8,7 +8,7 @@ I'm a passionate FrontEnd Engineer interested in Software development.
 
 I enjoy creating things and have a strong passion for assisting others in grasping complex software concepts and expanding their knowledge.
 
-🔭 I’m currently working on Nielsen as a Frontend Team Lead & Guild Manager
+🔭 I’m currently working at Intuit as a Senior Frontend Engineer & FE Guild Manager.
 
 📫 Connect with me on:
 
